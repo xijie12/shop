@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(){
+func add(){
 	fmt.Printf("web app index")
 }
